@@ -22,6 +22,7 @@ I’m into understanding how **maths and programming** connect — especially in
   <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-## WHATEVER TOOL FITS THE PROBLEM !
+## AND WHATEVER TOOL FITS THE PROBLEM !
 
 ---
+- Link to Linkedin account : https://www.linkedin.com/in/ryad-gamouda-06a0b6387/
