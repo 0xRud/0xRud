@@ -8,8 +8,8 @@ I’m into understanding how **maths and programming** connect — especially in
 ## What I’m interested in
 - Optimization theory  
 - Algorithms & search methods  
-- Mathematical thinking  
-- Clean software structure  
+- Mathematical thinking
+- Clean software design
 - Small experiments that teach me something ;)
 
 ---
