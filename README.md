@@ -1,7 +1,7 @@
 # Yo, I'm Rud
 
 I'm a 3rd-year student in AI engineering at **USTHB**.  
-I’m into understanding how **maths and programming** connect — especially in optimization and problem-solving.
+I’m into understanding how maths and programming connect. especially in optimization and problem solving.
 
 ---
 
